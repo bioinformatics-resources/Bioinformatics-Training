@@ -1,5 +1,5 @@
-Bioinformatics Training
-=======================
+Bioinformatics Training - Deprecated
+====================================
 
 This is a resource for learning more about PacBio data and bioinformatics analysis. 
 
